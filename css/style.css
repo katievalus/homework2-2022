@@ -13,8 +13,6 @@ h1{
 }
 h2{
     font-size: 24px;
-    padding-bottom: 15px;
-    padding-left: 15px;
     text-shadow: 2px 4px #808080;
 
 }
@@ -27,7 +25,7 @@ img{
     width: 350px;
     display: block;
     border: 10px dashed #FFFFFF;
-    margin: auto;
+    margin: 0 auto;
 }
 div{
     min-height: 100px;
